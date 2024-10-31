@@ -1,0 +1,26 @@
+/* PostFeature.css */
+.post-feature-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.code-editor {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.markdown-preview {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
